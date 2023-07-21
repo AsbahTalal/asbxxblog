@@ -7,11 +7,12 @@ author_profile: true
 
 ## Hey there!
 
-My name is Asbah Talal and I am an 11th grader from Oklahoma, USA. In school, I am Coding Club Founder and President, former Technology Student Association President, and staff writer for the school newspaper. 
+My name is Asbah Talal and I am an 11th grader from Oklahoma, USA. In school, I am Coding Club Founder, former Technology Student Association President, and staff writer for the school newspaper. 
 
 I'm interested in 
 - math, science, and programming, particularly physics 
-- photography, especially when traveling
+- fencing; i love the feeling of being in a bout and try to improve every meet
+- photography; especially when traveling
 - painting; Something I do for fun. I used to paint a lot during covid and it is something I am definitely trying to make time for.
 - volunteering; i typically spend my weekend volunteering at the museum, library, centers, and places where I can help out the community.
 - making YT videos about my interests
